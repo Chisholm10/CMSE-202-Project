@@ -3,7 +3,7 @@ Project: Finance and Economics 3
 
 Question: 3.  What factors have the most impact on the stock prices of supermarkets and their sales?
 
-Group 14
+Group 12
 
 Member Names:
 
